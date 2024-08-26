@@ -35,7 +35,6 @@ class ProfileController extends Controller
 
     public function update(Request $request, Profile $profile)
     {
-        // Logic مشابه لـ store لكن فقط مع تعديل السجلات
     }
 
     public function destroy(Profile $profile)
