@@ -30,7 +30,7 @@ class ContactController extends Controller
 
     public function update(Request $request, Contact $contact)
     {
-        // تعديل السجل الموجود هنا
+       
     }
 
     public function destroy(Contact $contact)
